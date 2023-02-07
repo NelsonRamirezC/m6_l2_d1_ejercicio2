@@ -27,7 +27,20 @@
             "existencias": 5,
             "precio": 45000,
             "imagen": "https://static.dafiti.cl/p/soviet-0441-874339-1-catalog-new.jpg"
+        },
+        {
+            "codigo": "cf600d",
+            "nombre": "Zapatilla adidas amarilla",
+            "existencias": "20",
+            "precio": "18000",
+            "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/58b321eb642b4219824dad6500e532f6_9366/Zapatillas_adidas_x_LEGOr_Sport_Pro_Amarillo_GW3014_01_standard.jpg"
+        },
+        {
+            "codigo": "4ea8fc",
+            "nombre": "Zapatilla adidas amarillas con negro",
+            "existencias": "25",
+            "precio": "28000",
+            "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/58b321eb642b4219824dad6500e532f6_9366/Zapatillas_adidas_x_LEGOr_Sport_Pro_Amarillo_GW3014_01_standard.jpg"
         }
-    
     ]
 }
