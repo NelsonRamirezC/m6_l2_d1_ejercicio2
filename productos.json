@@ -1,0 +1,33 @@
+{
+    "productos": [
+        {
+            "codigo": "A01",
+            "nombre": "Zapatilla Jordan",
+            "existencias": 10,
+            "precio": 150000,
+            "imagen": "https://cf.shopee.cl/file/b5402376a2252cacbf79adaff8084e91"
+        },
+        {
+            "codigo": "A02",
+            "nombre": "Jeans Levi's",
+            "existencias": 20,
+            "precio": 25000,
+            "imagen": "https://static.dafiti.cl/p/levis-1808-2588521-1-product.jpg"
+        },
+        {
+            "codigo": "A03",
+            "nombre": "Poleron Adidas",
+            "existencias": 35,
+            "precio": 20000,
+            "imagen": "https://www.malibustore.cl/wp-content/uploads/2021/08/Poleron_con_Capucha_Skateboarding_4.0_Logo_Genero_Neutro_Negro_GR8739_41_detail.jpg"
+        },
+        {
+            "codigo": "A04",
+            "nombre": "Chaqueta Soviet",
+            "existencias": 5,
+            "precio": 45000,
+            "imagen": "https://static.dafiti.cl/p/soviet-0441-874339-1-catalog-new.jpg"
+        }
+    
+    ]
+}
